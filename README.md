@@ -8,7 +8,7 @@
 실제 코드 및 사용된 패키지 정보가 필요하시다면 따로 요청해주세요.
 
 
-<video src="https://user-images.githubusercontent.com/33222740/110440704-4c96d780-80fc-11eb-8f44-97512720f8fd.mp4" controls></video>
+https://user-images.githubusercontent.com/33222740/110440704-4c96d780-80fc-11eb-8f44-97512720f8fd.mp4
 메인페이지입니다. JLPT 급수를 선택할 수 있습니다. 선택된 아이템이 하이라이트 되도록 만들었습니다.
 
 
