@@ -7,7 +7,7 @@
 프로토타입은 bloc패턴 및 hive로 제작되었으나 완성품은 getX로 리팩토링하여 만들었습니다.
 실제 코드 및 사용된 패키지 정보가 필요하시다면 따로 요청해주세요.
 
-![레벨선택페이지](https://user-images.githubusercontent.com/33222740/110444569-8964cd80-8100-11eb-81b7-e31a1a287cbf.gif)
+<img src="https://user-images.githubusercontent.com/33222740/110444569-8964cd80-8100-11eb-81b7-e31a1a287cbf.gif" width="40%">
 메인페이지입니다. JLPT 급수를 선택할 수 있습니다. 선택된 아이템이 하이라이트 되도록 만들었습니다.
 
 
