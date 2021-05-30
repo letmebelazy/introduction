@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/33222740/110444569-8964cd80-8100-11eb-81b7-e31a1a287cbf.gif" width="30%"><br><br>
 
 
-챕터 선택 페이지입니다. 단어를 100개 또는 200개씩 볼 수 있도록 만들었습니다. 영상에 담진 못했지만 각각의 리스트는 고유한 키값을 가져 스의 위치를 기억합니다.<br>
+챕터 선택 페이지입니다. 단어를 100개 또는 200개씩 볼 수 있도록 만들었습니다. 영상에 담진 못했지만 각각의 리스트는 고유한 키값을 가져 스크롤의 위치를 기억합니다.<br>
 <img src="https://user-images.githubusercontent.com/33222740/110444611-941f6280-8100-11eb-99da-5fd1ff56acca.gif" width="30%"><br><br>
 
 
